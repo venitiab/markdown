@@ -1,3 +1,9 @@
-#Hello
-I am a student at Mizzou
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMissouri_Tigers&psig=AOvVaw3in98FtDv52fr9WFcBMukg&ust=1668874122604000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODvhtyOuPsCFQAAAAAdAAAAABAE)
+# Here is a little bit about me
+---
+## My name is Venitia
+- I am from Farmington, MO (I was born in Fort Lewis, Washington and lived there and also Texas for a bit!)
+- I currently live in Columbia, MO because I go to Mizzou
+- I am majoring in IT with a minor in psychology
+- I have a cat named Daisy.
+[![Daisy.jpg](https://i.postimg.cc/hhWCRk0z/Daisy.jpg)](https://postimg.cc/sGmPp0qs)
+---
